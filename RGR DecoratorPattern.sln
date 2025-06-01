@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RGR DecoratorPattern", "RGR DecoratorPattern\RGR DecoratorPattern.csproj", "{CE9CE511-134F-4A35-9B1D-5A5928429E6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE9CE511-134F-4A35-9B1D-5A5928429E6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE9CE511-134F-4A35-9B1D-5A5928429E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE9CE511-134F-4A35-9B1D-5A5928429E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE9CE511-134F-4A35-9B1D-5A5928429E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD5B4671-6437-459B-87CE-5636CCDD828E}
+	EndGlobalSection
+EndGlobal
